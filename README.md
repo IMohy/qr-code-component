@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Frontend Mentor - QR code component solution
 
-You can use the [editor on GitHub](https://github.com/IMohy/qr-code-component/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Table of contents
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Built with](#built-with)
+- [Author](#author)
 
-### Markdown
+### Screenshot
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Full Screen](./screen-full.jpg)
+![Mobile Screen](./mobile.png)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
-- Bulleted
-- List
+Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
 
-1. Numbered
-2. List
+Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
-**Bold** and _Italic_ and `Code` text
+**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
-[Link](url) and ![Image](src)
-```
+### Links
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-### Jekyll Themes
+### Built with
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IMohy/qr-code-component/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
 
-### Support or Contact
+## Author
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Website - [IMohy](https://github.com/IMohy)
+- Frontend Mentor - [@IMohy](https://www.frontendmentor.io/profile/IMohye)
+- Facebook - [@IMohy2](https://www.facebook.com/IMohy2)
