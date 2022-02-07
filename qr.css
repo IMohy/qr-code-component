@@ -1,0 +1,55 @@
+:root{
+--White: hsl(0, 0%, 100%);
+--Lightgray: hsl(212, 45%, 89%);
+--Grayishblue: hsl(220, 15%, 55%);
+--Darkblue: hsl(218, 44%, 22%);
+}
+*{
+    box-sizing: border-box;
+}
+body {
+  background-color: var(--Lightgray);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: calc(100vh - 1px);
+  font-family: 'Outfit', sans-serif;
+}
+.container{
+    background-color: var(--White);
+    width: 345px;
+    height: 520px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px 0px #00000029;
+    margin-bottom: 50px;
+}
+.container img{
+width: calc(100% - 30px);
+margin-left: 15px;
+margin-top: 15px;
+border-radius: 15px;
+}
+.container div {
+    text-align: center;
+    color: var(--Darkblue);
+    margin-top: 30px;
+    width: calc(100% - 65px);
+    margin-left: 30px;
+}
+.container p {
+color: var(--Grayishblue);
+}
+.attribution{
+    font-size: 11px;
+}
+
+
+
+/* On screens that are 600px wide or less, make the columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 375px) {
+.container {
+width: 100%;
+}
+
+}  
